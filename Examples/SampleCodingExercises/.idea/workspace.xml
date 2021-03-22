@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d01e814d-5b23-471e-831e-30205b8e8607" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1g5yQB4YgdwbpLi2imAnv1jZThb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RunManager" selected="Application.PaitBob">
+    <configuration name="DiagonalStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="diagonalStart.DiagonalStart" />
+      <module name="SampleCodingExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="diagonalStart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlourPack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="flourPackProblem.FlourPack" />
+      <module name="SampleCodingExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="flourPackProblem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberToWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="numberToWords.NumberToWords" />
+      <module name="SampleCodingExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="numberToWords.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaitBob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="paintBobExample.PaitBob" />
+      <module name="SampleCodingExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="paintBobExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="largestPrimeNumber.PrimeNumber" />
+      <module name="SampleCodingExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="largestPrimeNumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PaitBob" />
+        <item itemvalue="Application.DiagonalStart" />
+        <item itemvalue="Application.PrimeNumber" />
+        <item itemvalue="Application.FlourPack" />
+        <item itemvalue="Application.NumberToWords" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d01e814d-5b23-471e-831e-30205b8e8607" name="Default Changelist" comment="" />
+      <created>1597418729877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597418729877</updated>
+      <workItem from="1597418731386" duration="1974000" />
+      <workItem from="1597734693815" duration="13801000" />
+      <workItem from="1597996337356" duration="13210000" />
+      <workItem from="1598030773831" duration="6378000" />
+      <workItem from="1598183823452" duration="1707000" />
+      <workItem from="1598196343526" duration="13000" />
+      <workItem from="1598202254487" duration="1972000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom" timestamp="1598204371775">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1598041105243" />
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1598204371775" />
+    <state width="1398" height="205" key="GridCell.Tab.0.center" timestamp="1598204371774">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1598041105241" />
+    <state width="1398" height="205" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1598204371774" />
+    <state width="1398" height="205" key="GridCell.Tab.0.left" timestamp="1598204371774">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1598041105241" />
+    <state width="1398" height="205" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1598204371774" />
+    <state width="1398" height="205" key="GridCell.Tab.0.right" timestamp="1598204371775">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1598041105242" />
+    <state width="1398" height="205" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1598204371775" />
+    <state width="1398" height="256" key="GridCell.Tab.1.bottom" timestamp="1598021041384">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.1.bottom/0.23.1440.805@0.23.1440.805" timestamp="1598021041384" />
+    <state width="1398" height="256" key="GridCell.Tab.1.center" timestamp="1598021041383">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.1.center/0.23.1440.805@0.23.1440.805" timestamp="1598021041383" />
+    <state width="1398" height="256" key="GridCell.Tab.1.left" timestamp="1598021041383">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.1.left/0.23.1440.805@0.23.1440.805" timestamp="1598021041383" />
+    <state width="1398" height="256" key="GridCell.Tab.1.right" timestamp="1598021041384">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.1.right/0.23.1440.805@0.23.1440.805" timestamp="1598021041384" />
+    <state x="221" y="63" key="SettingsEditor" timestamp="1597739266307">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="221" y="63" key="SettingsEditor/0.23.1440.805@0.23.1440.805" timestamp="1597739266307" />
+    <state x="374" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1598183830898">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="374" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.803@0.23.1440.803" timestamp="1597734692762" />
+    <state x="374" y="260" key="com.intellij.ide.util.TipDialog/0.23.1440.805@0.23.1440.805" timestamp="1598183830898" />
+  </component>
+</project>
